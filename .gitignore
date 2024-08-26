@@ -1,0 +1,4 @@
+# This contains all files/folders you don't want to be uploaded into Git.
+__pycache__
+venv/
+.env
